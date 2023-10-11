@@ -1,0 +1,92 @@
+[
+  {
+    "id": "dffsdf",
+    "name": "HP",
+    "price" : 300,
+    "desc": " Lorem ipsum, dolor sit amet consectetur adipisicing.",
+    "img" : "images/hp2.png"
+  },
+  {
+    "id": "qfdsf",
+    "name": "DELL",
+    "price" : 210,
+    "desc": " Lorem ipsum, dolor sit amet consectetur adipisicing.",
+    "img" : "images/dell3.png"
+  },
+  {
+    "id": "sdasr",
+    "name": "LENOVO",
+    "price" : 150,
+    "desc": " Lorem ipsum, dolor sit amet consectetur adipisicing.",
+    "img" : "images/lenovo2.png"
+  },
+  {
+    "id": "asdnfk",
+    "name": "SAMSAUNG",
+    "price" : 135,
+    "desc": " Lorem ipsum, dolor sit amet consectetur adipisicing.",
+    "img" : "images/samsaung2.png"
+  },
+  {
+    "id": "wjef",
+    "name": "APPLE",
+    "price" : 350,
+    "desc": " Lorem ipsum, dolor sit amet consectetur adipisicing.",
+    "img" : "images/apple2.png"
+  },
+  {
+    "id": "qfklsv",
+    "name": "ACER",
+    "price" : 120,
+    "desc": " Lorem ipsum, dolor sit amet consectetur adipisicing.",
+    "img" : "images/acer2.png"
+  },
+  {
+
+    "id": "askjbdv",
+    "name": "MSI",
+    "price" : 270,
+    "desc": " Lorem ipsum, dolor sit amet consectetur adipisicing.",
+    "img" : "images/msi2.png"
+  },
+  {
+
+    "id": "iweuf",
+    "name": "HUAWEI",
+    "price" : 110,
+    "desc": " Lorem ipsum, dolor sit amet consectetur adipisicing.",
+    "img" : "images/huawei2.png"
+  },
+  {
+
+    "id": "svlamf",
+    "name": "TOSHIBA",
+    "price" : 140,
+    "desc": " Lorem ipsum, dolor sit amet consectetur adipisicing.",
+    "img" : "images/toshiba.png"
+  },
+  {
+    
+    "id": "andfdc",
+    "name": "MICROSOFT",
+    "price" : 190,
+    "desc": " Lorem ipsum, dolor sit amet consectetur adipisicing.",
+    "img" : "images/microsoft.png"
+  },
+  {
+    
+    "id": "aussm",
+    "name": "ASUS",
+    "price" : 260,
+    "desc": " Lorem ipsum, dolor sit amet consectetur adipisicing.",
+    "img" : "images/asus.png"
+  },
+  {
+    
+    "id": "qwdasd",
+    "name": "RAZER",
+    "price" : 180,
+    "desc": " Lorem ipsum, dolor sit amet consectetur adipisicing.",
+    "img" : "images/razer.png"
+  }
+]
